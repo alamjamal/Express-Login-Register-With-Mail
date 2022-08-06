@@ -1,11 +1,11 @@
 {
-    "name": "node-mongo-registration-login-api",
+    "name": "Express-Login-Register-With-Mail",
     "version": "1.0.0",
-    "description": "NodeJS + MongoDB API for User Management, Authentication and Registration",
+    "description": "Express-Login-Register-With-Mail",
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/cornflourblue/node-mongo-registration-login-api.git"
+        "url": "https://github.com/alamjamal/Express-Login-Register-With-Mail.git"
     },
     "scripts": {
         "start": "node ./server.js",
